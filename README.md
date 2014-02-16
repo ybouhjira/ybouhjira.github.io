@@ -1,3 +1,3 @@
-## ybouhjira.github.com
+## ybouhjira.github.io
 
 My personal website
